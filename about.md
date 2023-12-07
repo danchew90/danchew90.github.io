@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 HelloWorld
-[screenshot](/logo.jpeg)
+![LOGO](/logo.jpeg)
